@@ -1,0 +1,32 @@
+.parent{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    
+   
+}
+.c1{
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    font-size: large;
+}
+
+.c2{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    font-size: large;
+}
+.c3{
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: large;
+}
+.c4{
+    position: absolute;
+    top: 0;
+    left: 10px;
+    font-size: large;
+}
